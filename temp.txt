@@ -1,2 +1,4 @@
 This is a temporary file
 Try to change the content of this file
+
+Trying to change with Rule on
